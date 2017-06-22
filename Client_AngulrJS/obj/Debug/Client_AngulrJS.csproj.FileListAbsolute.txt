@@ -1,0 +1,16 @@
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.dll
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.pdb
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.csprojResolveAssemblyReference.cache
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.dll
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.pdb
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.dll
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.pdb
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.csprojResolveAssemblyReference.cache
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.dll
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.pdb
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.dll.config
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.dll
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\bin\Client_AngulrJS.pdb
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.csprojResolveAssemblyReference.cache
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.dll
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_AngulrJS\obj\Debug\Client_AngulrJS.pdb

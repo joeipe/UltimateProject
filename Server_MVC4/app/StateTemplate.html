@@ -1,0 +1,17 @@
+﻿<div>
+    <h2>{{message}}</h2>
+    <div class="form-group" ng-class="{'has-error' : ultimateViewerForm.txtStateName.$invalid && ultimateViewerForm.txtStateName.$dirty}">
+        <label for="txtStateName" class="col-sm-2 control-label">Enter State Name:</label>
+        <div class="col-sm-10">
+            <input type="text" id="txtStateName" name="txtStateName" class="form-control" ng-model="txtStateName" ng-required="true" />
+            <span class="help-block" ng-show="ultimateViewerForm.txtStateName.$error.required && ultimateViewerForm.txtStateName.$dirty">State Name is required</span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-10">
+            <input id="btnCancel" type="button" class="btn btn-default" value="Cancel" ng-click="btnCancel_Click()" />
+            <input id="btnSubmit" type="button" class="btn btn-primary" value="Submit" ng-click="btnSubmit_Click()" ng-disabled="ultimateViewerForm.$invalid" />
+        </div>
+    </div>
+</div>

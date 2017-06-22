@@ -1,0 +1,16 @@
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.dll
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.pdb
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.csprojResolveAssemblyReference.cache
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.dll
+C:\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.pdb
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.dll
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.pdb
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.csprojResolveAssemblyReference.cache
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.dll
+C:\Users\joe_ipe\Desktop\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.pdb
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.dll.config
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.dll
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\bin\Client_jQuery.pdb
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.csprojResolveAssemblyReference.cache
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.dll
+C:\My Files\Joe Sample Projects\Ultimate Project\UltimateProject\Client_jQuery\obj\Debug\Client_jQuery.pdb

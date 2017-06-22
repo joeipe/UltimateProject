@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html ng-app="ultimateViewer">
+<head>
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/lib/angular.min.js"></script>
+    <script src="Scripts/lib/angular-route.min.js"></script>
+    <script src="Scripts/lib/angular-ui/ui-bootstrap-tpls.min.js"></script>
+    <script src="Scripts/app/app.js"></script>
+    <script src="Scripts/app/customerController.js"></script>
+    <script src="Scripts/app/customerService.js"></script>
+    <script src="Scripts/app/stateController.js"></script>
+    <script src="Scripts/app/stateTemplateController.js"></script>
+    <script src="Scripts/app/stateService.js"></script>
+</head>
+<body class="container">
+    <h1>Ultimate App, Angular</h1>
+
+    <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation"><a href="#/Customer">Customer</a></li>
+        <li role="presentation"><a href="#/State">State</a></li>
+    </ul>
+    <form class="form-horizontal" name="ultimateViewerForm" novalidate role="form">
+        <div ng-view></div>
+    </form>
+</body>
+</html>

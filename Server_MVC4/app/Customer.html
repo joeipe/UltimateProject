@@ -1,0 +1,43 @@
+﻿<div>
+    <h2>{{message}}</h2>
+    <div>
+        <div class="form-group">
+            <label for="drpcountry" class="col-sm-2 control-label">Select a country:</label>
+            <div class="col-sm-10">
+                <select id="drpcountry" name="drpcountry" class="form-control" ng-model="selectedCountry" ng-change="getCustomersByCountry()">
+                    <option selected="selected">--Select--</option>
+                    <option ng-repeat="country in countries">{{country.country}}</option>
+                </select>
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-10">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>CompanyName</th>
+                            <th>ContactName</th>
+                            <th>ContactTitle</th>
+                            <th>Address</th>
+                            <th>Country</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="cutomer in customers">
+                            <td>{{cutomer.customerID}}</td>
+                            <td>{{cutomer.companyName}}</td>
+                            <td>{{cutomer.contactName}}</td>
+                            <td>{{cutomer.contactTitle}}</td>
+                            <td>{{cutomer.address}}</td>
+                            <td>{{cutomer.country}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+    </div>
+</div>

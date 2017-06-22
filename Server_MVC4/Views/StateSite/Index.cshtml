@@ -1,0 +1,56 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>State</title>
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="~/Scripts/State.js"></script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <a href="http://localhost:43075/CustomerSite">Customer</a>
+            </td>
+            <td>
+                <a href="http://localhost:43075/StateSite">State</a>
+            </td>
+        </tr>
+    </table>
+    <h1>State</h1>
+    <form>
+        <div>
+            <a id="btnAddState" href="#">Add</a>
+            <table id="tblState">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <!--<th>ID</th>-->
+                        <th>StateName</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+        <br />
+        <div id="AddStateDiv">
+            Enter State Name: <input id="txtStateName" type="text" required />
+            <input id="btnSubmit" type="button" value="Submit" />
+            <input id="btnCancel" type="button" value="Cancel" />
+        </div>
+        <div id="EditStateDiv">
+            Edit State Name: <input id="txtStateNameEdit" type="text" required />
+            <input id="btnSubmitEdit" type="button" value="Submit" />
+            <input id="btnCancelEdit" type="button" value="Cancel" />
+        </div>
+    <input id="hdnEditStateID" type="hidden" />
+    </form>
+</body>
+</html>

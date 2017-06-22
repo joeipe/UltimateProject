@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customer</title>
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="~/Scripts/customer.js"></script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <a href="http://localhost:43075/CustomerSite">Customer</a>
+            </td>
+            <td>
+                <a href="http://localhost:43075/StateSite">State</a>
+            </td>
+        </tr>
+    </table>
+    <h1>Customer</h1>
+    <form>
+        <div>Select a country: 
+            <select id="dropDownCountry">
+                <option selected="selected">--Select--</option>
+            </select>
+            <table id="tbl">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>CompanyName</th>
+                        <th>ContactName</th>
+                        <th>ContactTitle</th>
+                        <th>Address</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

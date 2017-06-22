@@ -1,0 +1,31 @@
+﻿<div>
+    <h2>{{message}}</h2>
+    <div>
+        <div class="form-group">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-10">
+                <a id="btnAddState" class="btn btn-default" ng-click="btnAddState_Click()">Add</a>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-10">
+                <table id="tblState" class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <!--<th>ID</th>-->
+                            <th>State Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="state in states | orderBy : '+name'">
+                            <td><a ng-click="editState(state.iD, state.name)" class="btn btn-default">Edit</a> <a href="#/State" ng-click="deleteState(state.iD)" class="btn btn-default">Delete</a></td>
+                            <td>{{state.name}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
